@@ -23,4 +23,5 @@ book-recommender/
 ├── 📄 books_data.csv        # 📚 CSV file containing book titles and authors
 ├── 📄 requirements.txt      # 📦 All Python dependencies for the project
 ├── 📄 README.md             # 📘 Project documentation (you’re reading it!)
-├── 🖼️ preview.png           # 🌄 Screenshot of the app UI 
+└── 🖼️ preview.png           # 🌄 Screenshot of the app UI (optional for README)
+
